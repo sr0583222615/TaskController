@@ -18,7 +18,7 @@ namespace TaskController
         }
 
         public List<Task1> listTask = new List<Task1>();
-        Task1 t1 = new Task1() { Title = "java", Description = "good lang", Duedate = "yanuar", Level = Priority.Important };
+        Task1 t1 = new Task1() { Title = "java1", Description = "good lang", Duedate = "yanuar", Level = Priority.Important };
         Task1 t2 = new Task1() { Title = "hm", Description = "good doing", Duedate = "tomarow", Level = Priority.negligible };
         Task1 t3 = new Task1() { Title = "do schedule", Description = "nice lang", Duedate = "october", Level = Priority.critical };
 
