@@ -30,6 +30,8 @@ namespace TaskController
         public void OnGet()
         {
             _logger.LogInformation("info");
+            _logger.LogInformation("info2");
+
         }
 
         public List<Task1> GetTasks()
