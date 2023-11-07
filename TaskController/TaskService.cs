@@ -32,6 +32,8 @@ namespace TaskController
             _logger.LogInformation("info");
             _logger.LogInformation("info3");
             _logger.LogInformation("info4");
+            _logger.LogError("error");
+
 
 
         }
