@@ -32,9 +32,7 @@ namespace TaskController
             _logger.LogInformation("info");
             _logger.LogInformation("info3");
             _logger.LogInformation("info4");
-            _logger.LogInformation("info4");
-
-
+            _logger.LogDebug("hi shiffi");
         }
 
         public List<Task1> GetTasks()
