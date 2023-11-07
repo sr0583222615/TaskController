@@ -30,7 +30,7 @@ namespace TaskController
         public void OnGet()
         {
             _logger.LogInformation("info");
-            _logger.LogInformation("info2");
+            _logger.LogInformation("info3");
             _logger.LogInformation("info4");
 
 
